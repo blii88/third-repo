@@ -18,5 +18,7 @@ $ cd third-repo
 
 ## Start How
 
+how start
+
 '$ python fizzbuzz.py'
 
