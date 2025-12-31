@@ -1,4 +1,7 @@
-# Hello, I am from remote.
+# Github flow Practice
+
+Hello, I am from remote. And now, you are my words.
+
 
 Fizzbuzz를 Github Fiow로 연습하는 저장소입니다.
 
@@ -6,10 +9,14 @@ Fizzbuzz를 Github Fiow로 연습하는 저장소입니다.
 
 - python 3.12.10
 
+## Installation
+
+```shell
+$ git clone {repo addr}
+$ cd third-repo
+```
+
 ## How to Start
 
-```git clone https://github.com/blii88/third-repo.git
-$ cd third-repo
-$ python main.py
-```
+'$ python fizzbuzz.py'
 
