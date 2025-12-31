@@ -1,4 +1,4 @@
-# Third Repo
+# Hello, I am from remote.
 
 Fizzbuzz를 Github Fiow로 연습하는 저장소입니다.
 
