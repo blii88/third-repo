@@ -16,7 +16,7 @@ $ git clone {repo addr}
 $ cd third-repo
 ```
 
-## How to Start
+## Start How
 
 '$ python fizzbuzz.py'
 
